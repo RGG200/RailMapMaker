@@ -1,0 +1,16 @@
+POST /forum.php?mod=misc&action=rate&ratesubmit=yes&infloat=yes&inajax=1 HTTP/1.1
+Host: www.ditiezu.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Origin: http://www.ditiezu.com
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://www.ditiezu.com/thread-670047-1-1.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh,en;q=0.9,en-US;q=0.8,zh-CN;q=0.7,und;q=0.6,zh-TW;q=0.5
+Cookie: _ga=GA1.2.161902137.1586612484; _gid=GA1.2.1868787295.1586612484; __cfduid=df109e91469e4097696239b9460c9eb341586856445; ditiezu_bbs_20060b50_saltkey=l4LPS9DC; ditiezu_bbs_20060b50_lastvisit=1586861621; ditiezu_bbs_20060b50_auth=af0dxExPL4eXh4iBIZ0HM4beNVeLXbNT%2B6Dk88BLveNoC2sN7PHqwWyg%2Bi00PjN2kd2T3gJSelfJdn6ueBDxgJwwhN4; ditiezu_bbs_20060b50_smile=13D1; ditiezu_bbs_20060b50_sid=n00OZx; ditiezu_bbs_20060b50_ulastactivity=0fa8QBoKXaBq3sWchyiQ5%2BKd3v3jy7065A%2BG7PlCjR1W7BpzOUSJ; ditiezu_bbs_20060b50_noticeTitle=1; Hm_lvt_a7a4e43d43d6c9bea9025f4e800e9341=1586849008,1586865178,1586868692,1586918269; ditiezu_bbs_20060b50_forum_lastvisit=D_23_1586869162D_21_1586918273; ditiezu_bbs_20060b50_fid23=1586914021; ditiezu_bbs_20060b50_visitedfid=21D23; ditiezu_bbs_20060b50_yfe_in=1; ditiezu_bbs_20060b50_fid21=1586918843; ditiezu_bbs_20060b50_onlineusernum=9847; ditiezu_bbs_20060b50_sendmail=1; ditiezu_bbs_20060b50_home_diymode=1; _gat_gtag_UA_1871784_1=1; ditiezu_bbs_20060b50_promotion=667129; Hm_lpvt_a7a4e43d43d6c9bea9025f4e800e9341=1586919050; ditiezu_bbs_20060b50_lastact=1586919078%09forum.php%09misc
+
+formhash=1f84bd17&tid=670169&pid=11528022&referer=http%3A%2F%2Fwww.ditiezu.com%2Fforum.php%3Fmod%3Dviewthread%26tid%3D670047%26page%3D0%23pid11524005&handlekey=rate&score4=%2B1&reason=Congrats
