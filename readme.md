@@ -1,7 +1,6 @@
 # RailMapMaker
 Authored by @PassionPenguin
 Co-authored by @Wongchito
+Edited by @RGG200
 
-\[GitHub Demo]: http://passionpenguin.github.io/RailMapMaker
-
-\[Gitee Demo]: http://passionpenguin.gitee.io/RailMapMaker
+\[GitHub Demo]: https://railmapmaker.duckdns.org
