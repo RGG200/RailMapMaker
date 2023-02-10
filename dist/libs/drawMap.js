@@ -34,7 +34,7 @@ const drawMap = id => {
             stationNode.setAttributeNS(null, 'x', '0');
             stationNode.setAttributeNS(null, 'y', '0');
             stationNode.setAttributeNS(null, 'style', 'transform: matrix(1, 0, 0, 1, ' + (map[nodeId].x - 8) + ', ' + (map[nodeId].y - 8) + ');');
-            if (map[nodeId].type === 'destination') stationNode.setAttributeNS(null, 'style', 'transform: matrix(1, 0, 0, 1, ' + (map[nodeId].x - 10) + ', ' + (map[nodeId].y - 10) + ') scale(1.3);');
+            if (map[nodeId].type === 'destination') stationNode.setAttributeNS(null, 'style', 'transform: matrix(1, 0, 0, 1, ' + (map[nodeId].x - 10) + ', ' + (map[nodeId].y - 10) + ') scale(1.4);');
             stationsGroup.appendChild(stationNode);
 
             let name = document.createElementNS(pg.$('#resSvg')[0].namespaceURI, 'g');
