@@ -43,7 +43,7 @@ const attachEvent = {
                     strokeWidth: "5px",
                     color: "#000",
                     id: state.pathId,
-                    name: `UnnamedPath_${state.pathId}`,
+                    name: `line_${state.pathId}`,
                     opacity: 1,
                     stations: [{
                         x: curX,
@@ -53,8 +53,8 @@ const attachEvent = {
                         "text": {
                             "type": "withSecondaryName",
                             "name": [
-                                ["天河公园", "东郊公园", "爱心公园", "流花湖公园", "雕塑公园"][randomSeedA] + ["东", "西", "南", "北", "中"][randomSeedB],
-                                ["Tianhe Park", "Eastend Park", "Love Park", "Liuhua Lake Park", "Sculpture Park"][randomSeedA] + [" East", " West", " South", " North", " Middle"][randomSeedB]
+                                ["Val de Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["Est", "Ouest", "Nord", "Sud", "Centre"][randomSeedB],
+                                ["Les alouettes", "La place", "Centre administratif", "Centre commercial", "La grande Arche"][randomSeedA] + [" East", " West", " South", " North", " Middle"][randomSeedB]
                             ],
                             "position": 1,
                             "alignment": "middle"
@@ -75,8 +75,8 @@ const attachEvent = {
                     "text": {
                         "type": "withSecondaryName",
                         "name": [
-                            ["天河公园", "东郊公园", "爱心公园", "流花湖公园", "雕塑公园"][randomSeedA] + ["东", "西", "南", "北", "中"][randomSeedB],
-                            ["Tianhe Park", "Eastend Park", "Love Park", "Liuhua Lake Park", "Sculpture Park"][randomSeedA] + [" East", " West", " South", " North", " Middle"][randomSeedB]
+                            ["Val de Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["Est", "Ouest", "Nord", "Sud", "Centre"][randomSeedB],
+                                ["Les alouettes", "La place", "Centre administratif", "Centre commercial", "La grande Arche"][randomSeedA] + [" East", " West", " South", " North", " Middle"][randomSeedB]
                         ],
                         "position": 1,
                         "alignment": "middle",
