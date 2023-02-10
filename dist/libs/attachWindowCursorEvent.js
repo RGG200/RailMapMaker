@@ -53,8 +53,8 @@ const attachEvent = {
                         "text": {
                             "type": "withSecondaryName",
                             "name": [
-                                ["Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedA],
-                                ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedB]
+                                ["Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedB],
+                                ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA]
                             ],
                             "position": 1,
                             "alignment": "middle"
@@ -75,8 +75,8 @@ const attachEvent = {
                     "text": {
                         "type": "withSecondaryName",
                         "name": [
-                                ["Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedA],
-                                ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedB]
+                                ["Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedB],
+                                ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA]
                         ],
                         "position": 1,
                         "alignment": "middle",
