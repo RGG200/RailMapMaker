@@ -152,7 +152,7 @@ const drawMap = id => {
         }
 
 
-        pathEl.setAttributeNS(null, "id", path);
+        pathEl.setAttributeNS(null, "d", path);
         pathEl.setAttributeNS(null, "stroke", info.color);
         pathEl.setAttributeNS(null, "fill", "transparent");
         pathEl.setAttributeNS(null, "stroke-width", info.strokeWidth);
