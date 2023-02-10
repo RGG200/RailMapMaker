@@ -10,8 +10,8 @@ for (let i = 0; i < 18; i++) {
             type: "common",
             routeToNext: Int(Math.random() * 8).toString(),
             text: {
-                name: [["Val de Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedA],
-                      ["The alouettes", "The woods", " Administrative Center", "Shop", "La grande Arche"][randomSeedA] + ["-East", "-West", "-South", "-North", "-Middle"][randomSeedB]],
+                name: [["Fontenay", "Vincennes", "Nation", "Gare de Lyon", "Auber", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedA],
+                      ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedB]],
                 type: "withSecondaryName",
                 position: Int(Math.random() * 8),
                 alignment: ["start", "middle", "end"][Int(Math.random() * 3)]
