@@ -14,7 +14,7 @@ const builder = {
     version: "1.5.1",
     bundles: [{name: "PenguinUI", version: "0.1.7"}, {name: "ColorUtils", version: "0.2"}],
     displayVersion: "Cola/(RMG v1.5.1 Stable)",
-    locales: ["zh-CN", "zh-HK", "zh-YUE", "en-US"],
+    locales: ["zh-CN", "zh-HK", "zh-YUE", "en-US", "fr-FR"],
     buildTime: 1586010235748,
     debug: (pkg, src, tag, msg) => {
         /*
