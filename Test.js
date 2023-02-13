@@ -11,7 +11,7 @@ for (let i = 0; i < 18; i++) {
             routeToNext: Int(Math.random() * 8).toString(),
             text: {
                 name: [["Fontenay", "Vincennes", "Nation", "Gare de Lyon", "La Défense", "Châtelet Les Halles", "La défense"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedA],
-                      ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA] + ["-Est", "-Ouest", "-Nord", "-Sud", "-Centre"][randomSeedB]],
+                      ["Sous-Bois", "Sur-Seine", "Porte", "Mairie", "La-Grande-Arche"][randomSeedA]],
                 type: "withSecondaryName",
                 position: Int(Math.random() * 8),
                 alignment: ["start", "middle", "end"][Int(Math.random() * 3)]
