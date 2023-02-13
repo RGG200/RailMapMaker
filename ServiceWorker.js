@@ -8,6 +8,7 @@ self.addEventListener('install', function (e) {
                 './assets/locales/zh-CN.js',
                 './assets/locales/zh-HK.js',
                 './assets/locales/zh-YUE.js',
+                './assets/locales/fr-FR.js',
                 './assets/mipmap/border.png',
                 './assets/mipmap/grid.png',
                 './assets/mipmap/icon@1024.png',
